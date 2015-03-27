@@ -13,6 +13,7 @@
 		54E21FA01AB91CFA007A4DD2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54E21F9F1AB91CFA007A4DD2 /* Images.xcassets */; };
 		54E21FA31AB91CFA007A4DD2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 54E21FA11AB91CFA007A4DD2 /* LaunchScreen.xib */; };
 		54E21FAF1AB91CFA007A4DD2 /* Practicing_Swift2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54E21FAE1AB91CFA007A4DD2 /* Practicing_Swift2Tests.swift */; };
+		54E21FB91AB91D6E007A4DD2 /* Screen Shot 2015-02-26 at 6.35.32 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 54E21FB81AB91D6E007A4DD2 /* Screen Shot 2015-02-26 at 6.35.32 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		54E21FA81AB91CFA007A4DD2 /* Practicing Swift2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Practicing Swift2Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		54E21FAD1AB91CFA007A4DD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		54E21FAE1AB91CFA007A4DD2 /* Practicing_Swift2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Practicing_Swift2Tests.swift; sourceTree = "<group>"; };
+		54E21FB81AB91D6E007A4DD2 /* Screen Shot 2015-02-26 at 6.35.32 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2015-02-26 at 6.35.32 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		54E21F961AB91CFA007A4DD2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				54E21FB81AB91D6E007A4DD2 /* Screen Shot 2015-02-26 at 6.35.32 PM.png */,
 				54E21F971AB91CFA007A4DD2 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +197,7 @@
 			files = (
 				54E21F9E1AB91CFA007A4DD2 /* Main.storyboard in Resources */,
 				54E21FA31AB91CFA007A4DD2 /* LaunchScreen.xib in Resources */,
+				54E21FB91AB91D6E007A4DD2 /* Screen Shot 2015-02-26 at 6.35.32 PM.png in Resources */,
 				54E21FA01AB91CFA007A4DD2 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
